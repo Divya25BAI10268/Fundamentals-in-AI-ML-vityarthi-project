@@ -27,6 +27,7 @@ A simple Machine Learning based Book Recommendation System that suggests books b
 ***📂 Project Structure***
 
 Book-Recommendation-System/
+
 │── BOOK RECOMMEND.py
 │── README.md
 
@@ -50,7 +51,9 @@ Book-Recommendation-System/
 ***🎓 Learning Outcomes***
 
 - Understanding of Machine Learning basics
+  
 - Use of NLP techniques
+  
 - Working with real-world recommendation systems
 
 ---
@@ -58,7 +61,9 @@ Book-Recommendation-System/
 ***🙌 Author***
 
 **NAME:** Divya Kumari
+
 **REG.NO.:** 25BAI10268
+
 **BRANCH:** CSE(AI ML)
 
 ---
